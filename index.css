@@ -1,0 +1,31 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;  font-weight: 10; color: brown;
+}
+body{
+    /* background-color: rgb(10, 138, 177); */
+    background-image:url(" https://www.denofgeek.com/wp-content/uploads/2019/02/mcu-1-iron-man.jpg?resize=768%2C432" )  ;
+    background-repeat: repeat;
+    
+    
+
+}
+h3{
+    color: red;
+}
+ol{
+    color: tomato;
+
+}
+
+h2 {
+    color: red;
+}
+ul{
+    color: red; letter-spacing: 5px;
+}
+p{
+    color: saddlebrown;
+}
+.button{
+    text-decoration: none;
+}
